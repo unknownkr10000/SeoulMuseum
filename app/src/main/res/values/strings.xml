@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">서울 문화공간</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_detail_map">DetailMapActivity</string>
+</resources>

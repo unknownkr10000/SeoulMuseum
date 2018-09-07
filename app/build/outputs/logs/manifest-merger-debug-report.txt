@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support:design:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3b9522a44f7d32ff64e19a5ed4bd6268/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/96a7dea9b41a8ab492a2c0cee3793d39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/min/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b8c5c31a9949a52dc564cd37b94a8f76/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/08ebd34482e7021dcac109c9bb9f7111/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3367decd5641ffeb4d495ae8223b5f67/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c99cb39fcc4ce765fed403fc64128d09/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e6acfcc017c1cc8d1ad447f67b198b1b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3abe03ea7ab33080ef9062301739001a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/402df4834ad97be60175185da9be217c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8505baa89589100451a0b9e40269b045/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/455f4aa380c6ea4efd9dabd4c60be9a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8cd6705d1a9e0c7d2447b71aaed8e6e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2d9b914a56e9570ae89dac4c3c9997b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d106acb36faf3a2f645c1b97ab4b0919/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/174b3569d7490e712b2901b1cba8a985/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f88450089196f0bfd88d5ef31832234a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/004cba98774fa77dba88f083ea75f316/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/641072b3c6b6dced63c7f5d17b95005f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/164abc55ab397a36f1142f12811a1ca1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/180ba2386984ef1d7f6cc4b880e954c0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7e601966bb37912095f6c0407b9a1b94/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/08ebd34482e7021dcac109c9bb9f7111/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/08ebd34482e7021dcac109c9bb9f7111/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:11:22-64
+application
+ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:13:5-48:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/min/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b8c5c31a9949a52dc564cd37b94a8f76/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/min/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b8c5c31a9949a52dc564cd37b94a8f76/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/08ebd34482e7021dcac109c9bb9f7111/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/08ebd34482e7021dcac109c9bb9f7111/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3367decd5641ffeb4d495ae8223b5f67/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3367decd5641ffeb4d495ae8223b5f67/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c99cb39fcc4ce765fed403fc64128d09/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c99cb39fcc4ce765fed403fc64128d09/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e6acfcc017c1cc8d1ad447f67b198b1b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e6acfcc017c1cc8d1ad447f67b198b1b/AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.example.in_301.seoulmuseum.MainActivity
+ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.in_301.seoulmuseum.MuseumList
+ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:27:9-48
+	android:name
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:27:19-45
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:36:9-38:55
+	android:value
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:38:13-52
+	android:name
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:37:13-58
+activity#com.example.in_301.seoulmuseum.MapsActivity
+ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:40:9-42:59
+	android:label
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:41:13-41
+activity#com.example.in_301.seoulmuseum.MuseumDetail
+ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:43:9-50
+	android:name
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:43:19-47
+activity#com.example.in_301.seoulmuseum.DetailMapActivity
+ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:44:9-47:68
+	android:label
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:46:13-62
+	android:theme
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml:45:13-46
+uses-sdk
+INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml
+INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3b9522a44f7d32ff64e19a5ed4bd6268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3b9522a44f7d32ff64e19a5ed4bd6268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/96a7dea9b41a8ab492a2c0cee3793d39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/96a7dea9b41a8ab492a2c0cee3793d39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/min/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b8c5c31a9949a52dc564cd37b94a8f76/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/min/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b8c5c31a9949a52dc564cd37b94a8f76/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/08ebd34482e7021dcac109c9bb9f7111/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/08ebd34482e7021dcac109c9bb9f7111/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3367decd5641ffeb4d495ae8223b5f67/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3367decd5641ffeb4d495ae8223b5f67/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c99cb39fcc4ce765fed403fc64128d09/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c99cb39fcc4ce765fed403fc64128d09/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e6acfcc017c1cc8d1ad447f67b198b1b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e6acfcc017c1cc8d1ad447f67b198b1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3abe03ea7ab33080ef9062301739001a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3abe03ea7ab33080ef9062301739001a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/402df4834ad97be60175185da9be217c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/402df4834ad97be60175185da9be217c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8505baa89589100451a0b9e40269b045/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8505baa89589100451a0b9e40269b045/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/455f4aa380c6ea4efd9dabd4c60be9a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/455f4aa380c6ea4efd9dabd4c60be9a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8cd6705d1a9e0c7d2447b71aaed8e6e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8cd6705d1a9e0c7d2447b71aaed8e6e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2d9b914a56e9570ae89dac4c3c9997b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2d9b914a56e9570ae89dac4c3c9997b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d106acb36faf3a2f645c1b97ab4b0919/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d106acb36faf3a2f645c1b97ab4b0919/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/174b3569d7490e712b2901b1cba8a985/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/174b3569d7490e712b2901b1cba8a985/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f88450089196f0bfd88d5ef31832234a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f88450089196f0bfd88d5ef31832234a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/004cba98774fa77dba88f083ea75f316/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/004cba98774fa77dba88f083ea75f316/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/641072b3c6b6dced63c7f5d17b95005f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/641072b3c6b6dced63c7f5d17b95005f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/164abc55ab397a36f1142f12811a1ca1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/164abc55ab397a36f1142f12811a1ca1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/180ba2386984ef1d7f6cc4b880e954c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/180ba2386984ef1d7f6cc4b880e954c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7e601966bb37912095f6c0407b9a1b94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7e601966bb37912095f6c0407b9a1b94/AndroidManifest.xml:20:5-44
+INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml
+INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml
+		ADDED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/min/SeoulMuseum/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/08ebd34482e7021dcac109c9bb9f7111/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/08ebd34482e7021dcac109c9bb9f7111/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/08ebd34482e7021dcac109c9bb9f7111/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/08ebd34482e7021dcac109c9bb9f7111/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/08ebd34482e7021dcac109c9bb9f7111/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3367decd5641ffeb4d495ae8223b5f67/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3367decd5641ffeb4d495ae8223b5f67/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3367decd5641ffeb4d495ae8223b5f67/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3367decd5641ffeb4d495ae8223b5f67/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e6acfcc017c1cc8d1ad447f67b198b1b/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e6acfcc017c1cc8d1ad447f67b198b1b/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/min/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e6acfcc017c1cc8d1ad447f67b198b1b/AndroidManifest.xml:24:13-58
